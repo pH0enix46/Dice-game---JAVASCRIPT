@@ -2,6 +2,6 @@
 
 DEMO: [Dice Game](https://ph0enix46.github.io/Dice-game---JAVASCRIPT/)
 
-![Dice game](cute-panda.jpg)
+![Dice game](dice-game-demo.png)
 
 Have a nice Day!😸

@@ -1,5 +1,5 @@
 ## This project is based on Jonas Schmedtmann's [JavaScript](https://www.udemy.com/user/jonasschmedtmann/) course. You should check his course. All the credits go to my beautiful teacher Jonas Schmedtmann--
 
-DEMO: [Dice Game](https://dice-game-phoenix.netlify.app/)
+DEMO: [Dice Game](https://ph0enix46.github.io/Dice-game---JAVASCRIPT/)
 
 Have a nice Day!💛

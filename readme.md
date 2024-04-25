@@ -10,7 +10,7 @@
 ✅[View demo](https://ph0enix46.github.io/Dice-game---JAVASCRIPT/) 🐛[Bug report](https://github.com/pH0enix46/Dice-game---JAVASCRIPT/issues)
 
 
-## About Nexter
+## About
 It's a Basic Dice game based on some JAVASCRIPT ideas. It has a good-looking interface.
 
 

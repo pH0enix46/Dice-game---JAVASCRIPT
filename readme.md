@@ -5,7 +5,9 @@
 
 ## 𝗗𝗶𝗰𝗲-𝗴𝗮𝗺𝗲---ᒍ𝝖𝗩𝝖𝗦𝗖𝗥𝗜𝗣𝗧
 
-✅[𝗩𝗶𝗲𝞈 𝗱𝗲𝗺𝝾](https://ph0enix46.github.io/Dice-game---JAVASCRIPT/) 🐛[𝗕𝞄𝗴 𝗿𝗲𝗽𝝾𝗿𝘁](https://github.com/pH0enix46/Dice-game---JAVASCRIPT/issues)
+✅[𝗩𝗶𝗲𝞈 𝗱𝗲𝗺𝝾](https://ph0enix46.github.io/Dice-game---JAVASCRIPT/) 
+<br/>
+🐛[𝗕𝞄𝗴 𝗿𝗲𝗽𝝾𝗿𝘁](https://github.com/pH0enix46/Dice-game---JAVASCRIPT/issues)
 
 
 ## 𝝖𝗯𝝾𝞄𝘁

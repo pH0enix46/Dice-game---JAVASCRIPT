@@ -20,6 +20,8 @@ body {
   justify-content: center;
   background-image: url(cute-panda.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 /* LAYOUT */
